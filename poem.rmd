@@ -19,6 +19,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+My long two-pointed ladder's sticking through a tree  
+Toward heaven still,  
+And there's a barrel that I didn't fill  
+Beside it, and there may be two or three  
+Apples I didn't pick upon some bough.  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
